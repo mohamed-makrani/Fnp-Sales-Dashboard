@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**[MOHAMED MAKRANI]**  
+**MOHAMED MAKRANI**  
 Email: makrani.mohamed@ump.ac.ma
  
 
